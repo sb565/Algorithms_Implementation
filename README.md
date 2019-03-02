@@ -1,2 +1,2 @@
 # Analysis-And-Design-Of-Algorithms-Codes
-Implementation of many algorithms in c++
+Implementation of various algorithms in c++
