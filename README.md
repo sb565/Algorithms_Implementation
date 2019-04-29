@@ -1,2 +1,2 @@
-# Analysis-And-Design-Of-Algorithms-Codes
+# ALGORITHMS
 Implementation of various Algorithms and Data Structures in c++
