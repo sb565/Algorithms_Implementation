@@ -46,4 +46,6 @@ List of algorithms implemented
 
 # CONTRIBUTING
 Add the Code for a algorithm not already existing in Codes folder.
+
 Add your name in CONTRIBUTING.md file
+
