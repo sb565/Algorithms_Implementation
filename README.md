@@ -43,3 +43,7 @@ List of algorithms implemented
 38. [Sorting Algorithms using recursion](https://github.com/sb565/Algorithms_Implementation/blob/master/Codes/SortingUsingRecursion.cpp)
 39. [Stack using Linked List](https://github.com/sb565/Algorithms_Implementation/blob/master/Codes/Stack.cpp)
 40. [Subset Sum Problem Solution](https://github.com/sb565/Algorithms_Implementation/blob/master/Codes/SubsetSum.cpp)
+
+# CONTRIBUTING
+Add the Code for a algorithm not already existing in Codes folder.
+Add your name in CONTRIBUTING.md file
